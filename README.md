@@ -1,1 +1,2 @@
-# Crush-Zombies
+# CRUSH-THE-ZOMBIES
+CRUSH THE ZOMBIES
